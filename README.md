@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jonah 👋
 
-<!--
-**jfemiani10/jfemiani10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Miami University (graduating May 2028) with a minor in AI/ML.
+Undergraduate researcher working on radar-based navigation assistance for blind and low-vision wheelchair users.
 
-Here are some ideas to get you started:
+### Projects
+- **[rich-matplotlib](https://github.com/jfemiani10/rich-matplotlib)**: matplotlib figures rendered in the terminal, published on PyPI (400+ downloads)
+- **[ai-clipper-pipeline](https://github.com/jfemiani10/ai-clipper-pipeline)**: self-hosted Whisper + Claude pipeline that turns YouTube uploads into short-form clips
+- **[triguide](https://github.com/jfemiani10/triguide)**: full-stack AI triathlon coaching app with Strava integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Java · Python · TypeScript · JavaScript · C++ · SQL
+**Tools:** React · FastAPI · Docker · Redis · Linux · GitHub Actions · AWS EC2
+
+📫 [LinkedIn](https://linkedin.com/in/jonah-femiani) · femianjy@miamioh.edu
